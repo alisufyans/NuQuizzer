@@ -35,7 +35,7 @@ The quiz app has two modes.
 ## Installation
 
 1. Run the code in the terminal
-<pre> git clone https://github.com/xicon12/NuQuizzer.git </pre>
+<pre> git clone https://github.com/alisufyans/NuQuizzer.git </pre>
 2. In VSCode run the Main.py in src folder 
 
 
